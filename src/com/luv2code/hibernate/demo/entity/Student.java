@@ -8,7 +8,7 @@ import javax.persistence.Table;
 @Entity
 @Table(name="student")
 public class Student {
-	
+	//added comment
 	@Id
 	@Column(name="id")
 	private int id;
